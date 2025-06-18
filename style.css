@@ -9,14 +9,14 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #9b18d8;
+    color: #0e0707;
     padding: 20px;
 }
 
 /* Cabeçalho */
 header {
-    background-color: #2e8b57;
+    background-color: #ee6e06;
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -43,14 +43,14 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ddd;
+    color: #e90000;
 }
 
 /* Seções */
 section {
     margin-top: 40px;
     padding: 20px;
-    background-color: #fff;
+    background-color: #0457f1;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -108,7 +108,7 @@ header {
     top: 0;
     width: 100%;
     background-color: #2e8b57;
-    color: white;
+    color: black;
     padding: 15px 0;
     z-index: 1000;
 }
@@ -134,7 +134,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: yellowgreen;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
@@ -191,7 +191,7 @@ img, video {
 
 button {
     background-color: #2e8b57;
-    color: white;
+    color: blue;
     padding: 15px 30px;
     border: none;
     border-radius: 5px;
